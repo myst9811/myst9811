@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Shannen Saikia
+# 👋 Hey there, I'm Shannen 
 
 ### 🔗 Blockchain Developer | 🤖 AI Enthusiast | 💻 Full-Stack Engineer
 
@@ -93,7 +93,6 @@ const shannen = {
 - 🎓 Oracle Cloud Infrastructure Generative AI Professional Certified
 - 🥇 Built AI-powered Assistive Vision System with YOLOv8 and ESP32
 - 💼 Developed production-ready blockchain applications
-- 📊 CS @ VIT
 
 ---
 
